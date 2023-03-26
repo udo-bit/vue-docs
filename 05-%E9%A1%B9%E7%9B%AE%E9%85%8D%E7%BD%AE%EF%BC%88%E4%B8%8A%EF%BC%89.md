@@ -21,7 +21,7 @@ pnpm add @vueuse/core vue-router pinia vue-i18n
 
 ```typescript
 {
-  plugin:[
+  plugins:[
     
     vue({
       // 响应式语法糖
